@@ -1,0 +1,14 @@
+body{
+	background-image:url(resources/Dark-wallpaper-background-download.jpg);
+	
+}
+p{
+	color:#333;
+	background-color:rgb(15, 230, 230);
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+h1,h2,h3,h4,h5{
+	color:#CCC;
+	font-family:"Impact";
+	font-weight: 1000;
+}
